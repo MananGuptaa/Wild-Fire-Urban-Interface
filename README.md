@@ -1,7 +1,8 @@
 # Wild-Fire-Urban-Interface
 
 This repository contains my work at UC Berkeley.
-The project was divided in three phases:
+
+The project was divided in FOUR phases:
 
 (i) First phase was to extract data, gain domain knowledge and find attributes that could be responsible for affecting the burned area in case of a wildfire.
 
